@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>Engineering intelligent systems. Transforming data into insight. Building software that solves real problems.</strong>
+  <strong>Building intelligent applications, data-driven solutions, and production-ready software.</strong>
 </p>
 
 <p align="center">
@@ -17,27 +17,25 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7C3AED?style=flat-square" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/MACHINE_LEARNING-FF8C42?style=flat-square" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/DATA_ANALYTICS-00B4D8?style=flat-square" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/WEB_ENGINEERING-2EA043?style=flat-square" alt="Web Engineering" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=flat-square" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF8C42?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data_Analytics-00B4D8?style=flat-square" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Web_Engineering-2EA043?style=flat-square" alt="Web Engineering" />
 </p>
 
 ---
 
-## `01` — Engineering Overview
+## Engineering Overview
 
-I work across **AI engineering, machine learning, data science, and full-stack development**, building practical solutions that combine intelligent systems, data, and software engineering.
+I work across AI engineering, machine learning, data science, and full-stack development, building practical software that addresses real-world problems.
 
-My interests include developing AI-powered applications, training and evaluating machine learning models, creating backend APIs, building responsive web applications, designing databases, and transforming raw data into actionable insights.
+My work and interests span AI-powered applications, machine learning model development, backend APIs, web applications, database design, data analysis, and business intelligence.
 
-I enjoy working across the development lifecycle—from data preparation and experimentation to application development, deployment, and continuous improvement.
+I enjoy working across the development lifecycle, from preparing datasets and evaluating models to developing applications, integrating APIs, and deploying software solutions.
 
----
+## Technical Skills
 
-## `02` — Technical Skills
-
-### Artificial Intelligence & Machine Learning
+### AI Engineering and Machine Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -49,7 +47,7 @@ I enjoy working across the development lifecycle—from data preparation and exp
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
 </p>
 
-**Focus areas**
+Areas of focus:
 
 - AI-powered application development
 - Machine learning model training and evaluation
@@ -59,7 +57,7 @@ I enjoy working across the development lifecycle—from data preparation and exp
 - Data preparation and feature engineering
 - Model integration and deployment
 
-### Backend Development & APIs
+### Backend Development and APIs
 
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -69,13 +67,13 @@ I enjoy working across the development lifecycle—from data preparation and exp
   <img src="https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge" alt="Database Design" />
 </p>
 
-**Focus areas**
+Areas of focus:
 
 - Backend application development
-- API design and integration
-- Database modelling and management
-- Business logic and application architecture
-- Connecting machine learning models to applications
+- REST API design and integration
+- Database design and management
+- Application logic and system architecture
+- Integrating machine learning models into applications
 
 ### Frontend Development
 
@@ -83,91 +81,88 @@ I enjoy working across the development lifecycle—from data preparation and exp
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-**Focus areas**
+Areas of focus:
 
 - Responsive web application development
 - Component-based user interfaces
 - Frontend and backend integration
 - Interactive dashboards and data visualisation
-- User-focused application experiences
+- User-focused web experiences
 
-### Data Science & Analytics
+### Data Science and Analytics
 
 <p align="left">
   <img src="https://img.shields.io/badge/Data_Analysis-2F80ED?style=for-the-badge" alt="Data Analysis" />
-  <img src="https://img.shields.io/badge/EDA-5C6BC0?style=for-the-badge" alt="Exploratory Data Analysis" />
+  <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-5C6BC0?style=for-the-badge" alt="Exploratory Data Analysis" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
   <img src="https://img.shields.io/badge/SPSS_Expert-052FAD?style=for-the-badge" alt="SPSS Expert" />
 </p>
 
-**Focus areas**
+Areas of focus:
 
 - Data cleaning and preparation
-- Exploratory data analysis (EDA)
+- Exploratory data analysis
 - Statistical analysis
 - Predictive analytics
 - Business intelligence
 - Dashboard development and reporting
 - Data-driven decision support
 
----
-
-## `03` — Core Capabilities
+## Core Capabilities
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 AI Engineering</h3>
-      Developing applications that integrate AI models and intelligent workflows.
+      <h3>AI Engineering</h3>
+      Developing AI-powered applications and integrating intelligent models into software systems.
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Machine Learning</h3>
-      Preparing data, training models, evaluating results, and developing predictive solutions.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Full-Stack Development</h3>
-      Building web applications that connect intuitive interfaces to reliable backend services.
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Data Science</h3>
-      Exploring datasets, uncovering patterns, and translating findings into useful insights.
+      <h3>Machine Learning</h3>
+      Preparing datasets, training models, evaluating results, and developing predictive solutions.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔌 API & Backend Engineering</h3>
-      Designing APIs, data-driven services, and database-backed applications.
+      <h3>Full-Stack Development</h3>
+      Building web applications that connect frontend interfaces with reliable backend services.
     </td>
     <td width="50%" valign="top">
-      <h3>📈 Business Intelligence</h3>
-      Creating dashboards and reports that help people understand and use their data.
+      <h3>Data Science</h3>
+      Exploring datasets, identifying patterns, and translating findings into useful insights.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Backend Engineering</h3>
+      Designing APIs, database-backed services, and application infrastructure.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Business Intelligence</h3>
+      Creating analytical reports and dashboards that support informed decisions.
     </td>
   </tr>
 </table>
 
----
+## Projects and Practical Work
 
-## `04` — Projects & Practical Work
+My repositories cover practical exercises, experiments, and development work across software engineering, machine learning, and data analytics.
 
-I use projects to explore technical ideas, build practical applications, and strengthen my engineering skills.
+Areas represented in my project work include:
 
-Explore my repositories to find code and experiments covering areas such as:
-
-- **Classification and predictive modelling** — machine learning workflows and model evaluation.
-- **Property price prediction** — data-driven approaches to estimating property prices.
-- **Python development** — programming exercises and application development.
-- **Computer vision** — experiments with image-based machine learning.
-- **Data analytics** — data preparation, exploration, and analytical workflows.
-- **Web development** — backend services and full-stack application projects.
+- Classification and predictive modelling
+- Property price prediction
+- Python programming and backend development
+- Computer vision and neural network experiments
+- Data preparation and analytical workflows
+- Web application development
 
 <p align="center">
   <a href="https://github.com/NorbertNdungutse?tab=repositories">
@@ -175,48 +170,40 @@ Explore my repositories to find code and experiments covering areas such as:
   </a>
 </p>
 
----
-
-## `05` — Achievements & Highlights
+## Achievements and Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-AI_ENGINEERING-7C3AED?style=for-the-badge&labelColor=161B22" alt="AI Engineering highlight" />
-  <img src="https://img.shields.io/badge/02-MACHINE_LEARNING-FF8C42?style=for-the-badge&labelColor=161B22" alt="Machine Learning highlight" />
+  <img src="https://img.shields.io/badge/AI_ENGINEERING-7C3AED?style=for-the-badge&labelColor=161B22" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/MACHINE_LEARNING-FF8C42?style=for-the-badge&labelColor=161B22" alt="Machine Learning" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/03-FULL--STACK_DEVELOPMENT-2EA043?style=for-the-badge&labelColor=161B22" alt="Full-Stack Development highlight" />
-  <img src="https://img.shields.io/badge/04-DATA_SCIENCE-00B4D8?style=for-the-badge&labelColor=161B22" alt="Data Science highlight" />
+  <img src="https://img.shields.io/badge/FULL--STACK_DEVELOPMENT-2EA043?style=for-the-badge&labelColor=161B22" alt="Full-Stack Development" />
+  <img src="https://img.shields.io/badge/DATA_SCIENCE-00B4D8?style=for-the-badge&labelColor=161B22" alt="Data Science" />
 </p>
 
-<p align="center">
-  <strong>Continuous learning • Practical projects • Cross-disciplinary engineering</strong>
-</p>
+My professional focus is on developing practical skills through project work, continuous learning, and applying engineering principles to real-world problems.
 
-These highlights represent my technical focus areas; they are not claims of official GitHub awards or certifications. Genuine GitHub Achievements are awarded by GitHub according to its own activity criteria.
+The badges above are visual highlights of my technical focus areas, not official GitHub awards or professional certifications.
 
----
-
-## `06` — GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NorbertNdungutse&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorbertNdungutse&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most-used programming languages" />
 </p>
 
----
-
-## `07` — Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <a href="https://github.com/NorbertNdungutse?tab=overview">
-    <img src="https://ghchart.rshah.org/7C3AED/NorbertNdungutse" alt="GitHub contribution calendar for Norbert Ndungutse" />
+    <img src="https://ghchart.rshah.org/7C3AED/NorbertNdungutse" alt="GitHub contribution calendar" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/NorbertNdungutse?tab=repositories">
-    <img src="https://img.shields.io/badge/KEEP_EXPLORING-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+    <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
 </p>
 
@@ -227,5 +214,5 @@ These highlights represent my technical focus areas; they are not claims of offi
 </p>
 
 <p align="center">
-  <sub>Learn continuously. Build thoughtfully. Solve meaningful problems.</sub>
+  <sub>Continuous learning. Thoughtful engineering. Practical solutions.</sub>
 </p>
