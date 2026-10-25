@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-  <strong>Building intelligent applications, data-driven solutions, and production-ready software.</strong>
+  <strong>Building intelligent applications, data-driven systems, and practical software solutions.</strong>
 </p>
 
 <p align="center">
-  <a href="#featured-projects">
-    <img src="https://img.shields.io/badge/VIEW_MY_PROJECTS-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="View My Projects" />
+  <a href="#selected-projects">
+    <img src="https://img.shields.io/badge/EXPLORE_SELECTED_PROJECTS-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Explore selected projects" />
   </a>
   <a href="https://github.com/NorbertNdungutse?tab=repositories">
-    <img src="https://img.shields.io/badge/GITHUB_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
+    <img src="https://img.shields.io/badge/GITHUB_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
   </a>
 </p>
 
@@ -23,20 +23,18 @@
   <img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=flat-square" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF8C42?style=flat-square" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Data_Analytics-00B4D8?style=flat-square" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/Web_Engineering-2EA043?style=flat-square" alt="Web Engineering" />
+  <img src="https://img.shields.io/badge/Full--Stack_Engineering-2EA043?style=flat-square" alt="Full-Stack Engineering" />
 </p>
 
 ---
 
-## Engineering Overview
+## Professional Overview
 
-I work across AI engineering, machine learning, data science, and full-stack development, building practical software that addresses real-world problems.
+I am an AI Engineer, Data Scientist, and Full-Stack Developer focused on building intelligent applications, data-driven platforms, and production-oriented web solutions.
 
-My interests include developing AI-powered applications, training and evaluating machine learning models, building backend APIs, creating web applications, designing databases, and transforming raw data into actionable insights.
+My work spans AI integration, machine learning, backend engineering, frontend development, database design, data analytics, and automation. I enjoy taking technical challenges from initial problem analysis through implementation and deployment, with an emphasis on practical functionality and maintainable software.
 
-I enjoy working across the development lifecycle, from data preparation and experimentation to application development, integration, deployment, and continuous improvement.
-
----
+I have worked on projects for different use cases and business needs. The examples featured below represent selected work from a broader collection of client and product development projects.
 
 ## Technical Skills
 
@@ -54,13 +52,13 @@ I enjoy working across the development lifecycle, from data preparation and expe
 
 Areas of focus:
 
-- AI-powered application development
+- AI-powered application development and model integration
 - Machine learning model training and evaluation
 - Classification and predictive modelling
 - Computer vision workflows
 - Speech recognition and transcription
 - Data preparation and feature engineering
-- Model integration and deployment
+- AI-assisted automation and intelligent workflows
 
 ### Backend Development and APIs
 
@@ -75,10 +73,11 @@ Areas of focus:
 Areas of focus:
 
 - Backend application development
-- REST API design and integration
+- API design and integration
 - Database design and management
-- Application logic and system architecture
-- Integrating machine learning models into applications
+- Application architecture and business logic
+- Connecting AI models to software applications
+- Backend services and automated workflows
 
 ### Frontend Development
 
@@ -98,7 +97,7 @@ Areas of focus:
 - Component-based user interfaces
 - Frontend and backend integration
 - Interactive dashboards and data visualisation
-- User-focused web experiences
+- User-focused application experiences
 
 ### Data Science and Analytics
 
@@ -129,96 +128,105 @@ Areas of focus:
   <tr>
     <td width="50%" valign="top">
       <h3>AI Engineering</h3>
-      Developing AI-powered applications and integrating intelligent models into software systems.
+      Developing intelligent applications and integrating AI capabilities into software systems.
     </td>
     <td width="50%" valign="top">
       <h3>Machine Learning</h3>
-      Preparing datasets, training models, evaluating results, and developing predictive solutions.
+      Preparing datasets, training models, evaluating performance, and developing predictive solutions.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Full-Stack Development</h3>
-      Building web applications that connect frontend interfaces with reliable backend services.
+      Building web applications that connect frontend interfaces with backend services and databases.
     </td>
     <td width="50%" valign="top">
       <h3>Data Science</h3>
-      Exploring datasets, identifying patterns, and translating findings into useful insights.
+      Analysing datasets, identifying patterns, and translating findings into useful insights.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Backend Engineering</h3>
-      Designing APIs, database-backed services, and application infrastructure.
+      Designing APIs, application logic, database-backed services, and integration workflows.
     </td>
     <td width="50%" valign="top">
       <h3>Business Intelligence</h3>
-      Creating analytical reports and dashboards that support informed decisions.
+      Creating analytical reports and dashboards to support informed decisions.
     </td>
   </tr>
 </table>
 
 ---
 
-## Featured Projects
+## Selected Projects
 
-<a id="featured-projects"></a>
+<a id="selected-projects"></a>
 
-The following projects demonstrate my work across conversational AI, data intelligence, and web application development.
+The projects below are selected examples from a broader portfolio of client engagements and product development work. They demonstrate different applications of AI engineering, data intelligence, and full-stack software development.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Nambi — Virtual Travel Consultant</h3>
-      <a href="https://chatbot.everything-uganda.com/">
-        <img src="https://img.shields.io/badge/OPEN_NAMBI-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Nambi" />
+      <h3>Visibility Engine</h3>
+      <p>AI-driven website intelligence and visibility platform.</p>
+      <a href="https://dataengine.54-86-109-228.sslip.io/">
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Visibility Engine" />
       </a>
-      <p>An AI-powered travel chatbot for Everything Uganda, designed to help users explore travel information and destinations through a conversational interface.</p>
+      <p>A platform focused on website analysis, content strategy, search visibility, and automated content workflows.</p>
       <p>
-        <img src="https://img.shields.io/badge/Conversational_AI-7C3AED?style=flat-square" alt="Conversational AI" />
-        <img src="https://img.shields.io/badge/Travel_Technology-00B4D8?style=flat-square" alt="Travel Technology" />
+        <img src="https://img.shields.io/badge/AI_Engineering-7C3AED?style=flat-square" alt="AI Engineering" />
+        <img src="https://img.shields.io/badge/Data_Intelligence-00B4D8?style=flat-square" alt="Data Intelligence" />
+        <img src="https://img.shields.io/badge/Automation-2EA043?style=flat-square" alt="Automation" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Tek Juice Data Engine</h3>
-      <a href="https://dataengine.54-86-109-228.sslip.io/">
-        <img src="https://img.shields.io/badge/OPEN_DATA_ENGINE-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Data Engine" />
+      <h3>Virtual Travel Assistant</h3>
+      <p>Conversational AI for travel discovery and information.</p>
+      <a href="https://chatbot.everything-uganda.com/">
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Virtual Travel Assistant" />
       </a>
-      <p>An AI-driven data intelligence platform focused on website analysis, content strategy, search visibility, and automated content workflows.</p>
+      <p>A travel-focused conversational interface designed to help users explore destinations and access relevant travel information.</p>
       <p>
-        <img src="https://img.shields.io/badge/Data_Intelligence-00B4D8?style=flat-square" alt="Data Intelligence" />
-        <img src="https://img.shields.io/badge/SEO_and_AI_Visibility-7C3AED?style=flat-square" alt="SEO and AI Visibility" />
+        <img src="https://img.shields.io/badge/Conversational_AI-7C3AED?style=flat-square" alt="Conversational AI" />
+        <img src="https://img.shields.io/badge/Travel_Technology-00B4D8?style=flat-square" alt="Travel Technology" />
+        <img src="https://img.shields.io/badge/Web_Application-2EA043?style=flat-square" alt="Web Application" />
       </p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3>Ultimate Move — Expense Tracker</h3>
+      <p>Web-based expense management application.</p>
       <a href="https://ultimatemove.co.uk/">
-        <img src="https://img.shields.io/badge/OPEN_ULTIMATE_MOVE-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Ultimate Move" />
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Ultimate Move" />
       </a>
-      <p>A web-based expense tracking product focused on helping users manage expenses and organise financial information through a digital application.</p>
+      <p>A digital expense tracking product focused on helping users manage expenses and organise financial information.</p>
       <p>
         <img src="https://img.shields.io/badge/Financial_Management-2EA043?style=flat-square" alt="Financial Management" />
-        <img src="https://img.shields.io/badge/Web_Application-3178C6?style=flat-square" alt="Web Application" />
+        <img src="https://img.shields.io/badge/Full--Stack_Development-3178C6?style=flat-square" alt="Full-Stack Development" />
       </p>
     </td>
   </tr>
 </table>
 
-### Other Development Projects
+### Broader Client and Development Portfolio
 
-My GitHub repositories also contain practical work in:
+These featured projects represent only a selection of the work I have developed for different clients and use cases. My wider development work also includes:
 
-- Classification and predictive modelling
+- Machine learning classification and predictive modelling
 - Property price prediction
-- Python programming and backend development
+- Python applications and backend services
 - Computer vision and neural network experiments
-- Data cleaning, exploratory analysis, and machine learning workflows
+- Data cleaning, exploratory data analysis, and statistical workflows
+- Web application development and API integration
+- Data analytics, reporting, and dashboard development
+
+For additional public code and technical experiments, visit my repositories.
 
 <p align="center">
   <a href="https://github.com/NorbertNdungutse?tab=repositories">
-    <img src="https://img.shields.io/badge/BROWSE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse all GitHub repositories" />
+    <img src="https://img.shields.io/badge/BROWSE_GITHUB_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse GitHub repositories" />
   </a>
 </p>
 
@@ -236,9 +244,9 @@ My GitHub repositories also contain practical work in:
   <img src="https://img.shields.io/badge/DATA_SCIENCE-00B4D8?style=for-the-badge&labelColor=161B22" alt="Data Science" />
 </p>
 
-My focus is on developing practical engineering skills through project work, continuous learning, and applying software and data techniques to real-world problems.
+My work reflects an ongoing focus on practical software development, continuous learning, and applying engineering techniques to real-world problems.
 
-These badges represent technical focus areas rather than official GitHub awards or professional certifications.
+These badges highlight technical areas of focus; they do not represent official GitHub awards or professional certifications.
 
 ---
 
@@ -260,9 +268,9 @@ These badges represent technical focus areas rather than official GitHub awards 
 ---
 
 <p align="center">
-  <strong>Building practical technology through AI, data, and software engineering.</strong>
+  <strong>AI Engineering | Data Science | Full-Stack Development</strong>
 </p>
 
 <p align="center">
-  <sub>Continuous learning. Thoughtful engineering. Practical solutions.</sub>
+  <sub>Building practical technology through thoughtful engineering and data-driven problem solving.</sub>
 </p>
