@@ -11,8 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NorbertNdungutse">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub profile" />
+  <a href="#featured-projects">
+    <img src="https://img.shields.io/badge/VIEW_MY_PROJECTS-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="View My Projects" />
+  </a>
+  <a href="https://github.com/NorbertNdungutse?tab=repositories">
+    <img src="https://img.shields.io/badge/GITHUB_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
   </a>
 </p>
 
@@ -29,9 +32,11 @@
 
 I work across AI engineering, machine learning, data science, and full-stack development, building practical software that addresses real-world problems.
 
-My work and interests span AI-powered applications, machine learning model development, backend APIs, web applications, database design, data analysis, and business intelligence.
+My interests include developing AI-powered applications, training and evaluating machine learning models, building backend APIs, creating web applications, designing databases, and transforming raw data into actionable insights.
 
-I enjoy working across the development lifecycle, from preparing datasets and evaluating models to developing applications, integrating APIs, and deploying software solutions.
+I enjoy working across the development lifecycle, from data preparation and experimentation to application development, integration, deployment, and continuous improvement.
+
+---
 
 ## Technical Skills
 
@@ -116,6 +121,8 @@ Areas of focus:
 - Dashboard development and reporting
 - Data-driven decision support
 
+---
+
 ## Core Capabilities
 
 <table>
@@ -151,24 +158,71 @@ Areas of focus:
   </tr>
 </table>
 
-## Projects and Practical Work
+---
 
-My repositories cover practical exercises, experiments, and development work across software engineering, machine learning, and data analytics.
+## Featured Projects
 
-Areas represented in my project work include:
+<a id="featured-projects"></a>
+
+The following projects demonstrate my work across conversational AI, data intelligence, and web application development.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Nambi — Virtual Travel Consultant</h3>
+      <a href="https://chatbot.everything-uganda.com/">
+        <img src="https://img.shields.io/badge/OPEN_NAMBI-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Nambi" />
+      </a>
+      <p>An AI-powered travel chatbot for Everything Uganda, designed to help users explore travel information and destinations through a conversational interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Conversational_AI-7C3AED?style=flat-square" alt="Conversational AI" />
+        <img src="https://img.shields.io/badge/Travel_Technology-00B4D8?style=flat-square" alt="Travel Technology" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Tek Juice Data Engine</h3>
+      <a href="https://dataengine.54-86-109-228.sslip.io/">
+        <img src="https://img.shields.io/badge/OPEN_DATA_ENGINE-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Data Engine" />
+      </a>
+      <p>An AI-driven data intelligence platform focused on website analysis, content strategy, search visibility, and automated content workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Data_Intelligence-00B4D8?style=flat-square" alt="Data Intelligence" />
+        <img src="https://img.shields.io/badge/SEO_and_AI_Visibility-7C3AED?style=flat-square" alt="SEO and AI Visibility" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>Ultimate Move — Expense Tracker</h3>
+      <a href="https://ultimatemove.co.uk/">
+        <img src="https://img.shields.io/badge/OPEN_ULTIMATE_MOVE-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Ultimate Move" />
+      </a>
+      <p>A web-based expense tracking product focused on helping users manage expenses and organise financial information through a digital application.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Financial_Management-2EA043?style=flat-square" alt="Financial Management" />
+        <img src="https://img.shields.io/badge/Web_Application-3178C6?style=flat-square" alt="Web Application" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+### Other Development Projects
+
+My GitHub repositories also contain practical work in:
 
 - Classification and predictive modelling
 - Property price prediction
 - Python programming and backend development
 - Computer vision and neural network experiments
-- Data preparation and analytical workflows
-- Web application development
+- Data cleaning, exploratory analysis, and machine learning workflows
 
 <p align="center">
   <a href="https://github.com/NorbertNdungutse?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all GitHub projects" />
+    <img src="https://img.shields.io/badge/BROWSE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse all GitHub repositories" />
   </a>
 </p>
+
+---
 
 ## Achievements and Highlights
 
@@ -182,9 +236,11 @@ Areas represented in my project work include:
   <img src="https://img.shields.io/badge/DATA_SCIENCE-00B4D8?style=for-the-badge&labelColor=161B22" alt="Data Science" />
 </p>
 
-My professional focus is on developing practical skills through project work, continuous learning, and applying engineering principles to real-world problems.
+My focus is on developing practical engineering skills through project work, continuous learning, and applying software and data techniques to real-world problems.
 
-The badges above are visual highlights of my technical focus areas, not official GitHub awards or professional certifications.
+These badges represent technical focus areas rather than official GitHub awards or professional certifications.
+
+---
 
 ## GitHub Statistics
 
@@ -198,12 +254,6 @@ The badges above are visual highlights of my technical focus areas, not official
 <p align="center">
   <a href="https://github.com/NorbertNdungutse?tab=overview">
     <img src="https://ghchart.rshah.org/7C3AED/NorbertNdungutse" alt="GitHub contribution calendar" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NorbertNdungutse?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
 </p>
 
