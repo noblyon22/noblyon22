@@ -1,4 +1,5 @@
-Norbert Ndungutse
+# Norbert Ndungutse
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Norbert%20Ndungutse&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=AI%20Engineering%20%7C%20Data%20Science%20%7C%20Full-Stack%20Development&descAlignY=62&descSize=16" alt="Norbert Ndungutse — AI Engineering, Data Science and Full-Stack Development" width="100%" />
 </p>
@@ -30,14 +31,20 @@ Norbert Ndungutse
   <img src="https://img.shields.io/badge/Deployment-Docker%20%26%20Cloud-2563EB?style=flat-square" alt="Docker and cloud deployment" />
 </p>
 
-About Me
+---
+
+## About Me
+
 I develop intelligent applications, data-driven systems, backend services, and full-stack products that address practical technical and business problems.
 
 My work spans AI engineering, machine learning, data science, web development, API integration, database design, and business intelligence. I work across independent projects and client engagements, adapting the technology and architecture to each project's needs.
 
 I focus on combining analytical thinking with practical engineering to develop maintainable applications, useful data products, and integrated software systems.
-Technology Stack
-AI Engineering and Machine Learning
+
+## Technology Stack
+
+### Artificial Intelligence & Machine Learning Tools
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -48,7 +55,9 @@ AI Engineering and Machine Learning
 </p>
 
 AI application integration, model training and evaluation, classification, regression, predictive modelling, computer vision, and natural language processing.
-Backend Engineering and Databases
+
+### Backend Tools & Databases
+
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -59,7 +68,9 @@ Backend Engineering and Databases
 </p>
 
 API design, database modelling, backend architecture, authentication, service integration, containerisation, and deployment.
-Frontend and Full-Stack Development
+
+### Frontend Tools
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -70,7 +81,9 @@ Frontend and Full-Stack Development
 </p>
 
 Responsive interfaces, reusable components, frontend architecture, API consumption, and end-to-end web application development.
-Data Science and Business Intelligence
+
+### Data Science Tools & Business Intelligence
+
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -81,7 +94,9 @@ Data Science and Business Intelligence
 </p>
 
 Exploratory data analysis, data cleaning, statistical analysis, feature engineering, predictive modelling, data visualisation, dashboards, and reporting.
-Cloud, Tooling and Integration
+
+### Cloud, DevOps & Integration Tools
+
 <p>
   <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git version control" />
   <img src="https://img.shields.io/badge/GitHub-Collaboration-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub collaboration" />
@@ -92,7 +107,9 @@ Cloud, Tooling and Integration
 </p>
 
 Git-based workflows, containerised development, cloud-hosted applications, reverse-proxy configuration, third-party API integration, and service-to-service communication.
-Engineering Capabilities
+
+## Engineering Capabilities
+
 <table>
   <tr>
     <td width="50%">
@@ -126,7 +143,8 @@ Engineering Capabilities
   </tr>
 </table>
 
-Selected Achievements & Engineering Highlights
+## Selected Achievements & Engineering Highlights
+
 <p align="center">
   <img src="https://img.shields.io/badge/01-AI%20Product%20Engineering-7C3AED?style=for-the-badge" alt="AI product engineering" />
   <img src="https://img.shields.io/badge/02-End--to--End%20Delivery-2563EB?style=for-the-badge" alt="End-to-end delivery" />
@@ -136,41 +154,42 @@ Selected Achievements & Engineering Highlights
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 AI & Website Intelligence</h3>
-      <p>Building a website intelligence and content strategy platform that brings together analysis, search visibility workflows, content operations, quality checks, and server-to-server publishing.</p>
-      <p><strong>Evidence:</strong> <a href="https://dataengine.54-86-109-228.sslip.io/">Tek Juice Data Engine</a></p>
+      <h3>Machine Learning & Predictive Modelling</h3>
+      <p>Worked on classification and prediction workflows, model evaluation, XGBoost experiments, property-price prediction, and computer-vision and neural-network notebooks.</p>
+      <p><strong>Focus:</strong> Model comparison, feature preparation, evaluation, and practical experimentation.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 Conversational AI</h3>
+      <h3>Conversational AI</h3>
       <p>Developed a virtual travel assistant experience that helps users explore destinations and access travel information through a conversational interface.</p>
       <p><strong>Evidence:</strong> <a href="https://chatbot.everything-uganda.com/">Nambi — Virtual Travel Assistant</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Applied Machine Learning</h3>
+      <h3>Applied Machine Learning</h3>
       <p>Worked on classification and prediction workflows, model evaluation, XGBoost experiments, property-price prediction, and computer-vision/neural-network notebooks.</p>
       <p><strong>Focus:</strong> Model comparison, feature preparation, evaluation, and practical experimentation.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Full-Stack Product Work</h3>
+      <h3>Full-Stack Product Work</h3>
       <p>Worked across frontend interfaces, backend APIs, PostgreSQL-backed services, integrations, and deployment workflows for practical applications.</p>
       <p><strong>Evidence:</strong> <a href="https://ultimatemove.co.uk/">Ultimate Move — Expense Tracker</a> and <a href="https://github.com/noblyon22?tab=repositories">public repositories</a>.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 Analytics & Decision Support</h3>
+      <h3>Analytics & Decision Support</h3>
       <p>Data cleaning, exploratory analysis, statistical workflows, SPSS, Power BI dashboards, and reporting to turn raw data into useful findings.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔗 Integration-Minded Engineering</h3>
+      <h3>Integration-Minded Engineering</h3>
       <p>Designing systems around APIs, adaptable integrations, content/data workflows, and the connection between AI capabilities and deployable software.</p>
     </td>
   </tr>
 </table>
 
-Professional Development & Community
+## Professional Development & Community
+
 <p>
   <img src="https://img.shields.io/badge/ALX-Data%20Science%20%26%20Machine%20Learning-1D4ED8?style=flat-square" alt="ALX Data Science and Machine Learning" />
   <img src="https://img.shields.io/badge/ALX-Backend%20Engineering%20%7C%20Django%20%26%20DRF-0F766E?style=flat-square" alt="ALX backend engineering and Django REST Framework" />
@@ -179,17 +198,20 @@ Professional Development & Community
 </p>
 
 I continue to develop my skills through applied projects, structured learning in data science and backend engineering, and engagement with AI, open-source, and digital-health technology communities.
-Selected Projects
+
+## Selected Projects
+
 These are selected examples from a broader portfolio of client engagements and product development work. They demonstrate different application areas and engineering capabilities rather than the entirety of my work.
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Visibility Engine</h3>
-      <p><img src="https://img.shields.io/badge/AI-Website%20Intelligence-7C3AED?style=flat-square" alt="AI website intelligence" /> <img src="https://img.shields.io/badge/SEO%20%2F%20GEO%20%2F%20AEO-Visibility-2563EB?style=flat-square" alt="SEO GEO AEO visibility" /></p>
-      <p>An intelligent website visibility and content strategy platform designed to analyse website information, support search visibility improvement, and coordinate content workflows.</p>
-      <p><strong>Focus:</strong> Website intelligence, content strategy, search visibility, and automation.</p>
-      <a href="https://dataengine.54-86-109-228.sslip.io/">
-        <img src="https://img.shields.io/badge/Explore-Visibility_Engine-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Visibility Engine" />
+      <h3>Machine Learning & Data Science Projects</h3>
+      <p><img src="https://img.shields.io/badge/Machine%20Learning-Applied%20Projects-7C3AED?style=flat-square" alt="Applied machine learning projects" /> <img src="https://img.shields.io/badge/Python-Data%20%26%20Modelling-2563EB?style=flat-square&logo=python&logoColor=white" alt="Python data and modelling" /></p>
+      <p>A collection of practical experiments covering predictive modelling, classification, model evaluation, data analysis, and computer vision.</p>
+      <p><strong>Focus:</strong> Model development, experimentation, data preparation, and analytical problem-solving.</p>
+      <a href="https://github.com/noblyon22?tab=repositories">
+        <img src="https://img.shields.io/badge/Explore-ML_and_Data_Science_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore machine learning and data science projects" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -224,8 +246,10 @@ These are selected examples from a broader portfolio of client engagements and p
   </tr>
 </table>
 
-Broader Development Portfolio
+## Broader Development Portfolio
+
 My wider development work includes:
+
 - Machine learning classification and predictive modelling.
 - Property value prediction and prediction-focused applications.
 - Python applications and backend services.
@@ -234,9 +258,12 @@ My wider development work includes:
 - Web applications, APIs, and database-backed systems.
 - Business intelligence dashboards and reporting.
 
-GitHub Statistics & Activity
+[![Browse GitHub Repositories](https://img.shields.io/badge/Discover-More_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noblyon22?tab=repositories)
+
+## GitHub Statistics & Activity
+
 <p align="center">
-  <img height="190" src="https://github-stats-extended.vercel.app/api?username=noblyon22&include_all_commits=true&owner=noblyon22%2Ctek-juice&number_format=long&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="All-time GitHub commit statistics for repositories in the noblyon22 and tek-juice owner scopes" />
+  <img height="190" src="https://github-stats-extended.vercel.app/api?username=noblyon22&include_all_commits=true&number_format=long&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="All-time GitHub commit statistics for noblyon22" />
   <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs?username=noblyon22&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most-used programming languages in public repositories" />
 </p>
 <p align="center">
@@ -248,7 +275,8 @@ GitHub Statistics & Activity
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=noblyon22&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="98%" />
 </p>
 
-Animated Contribution Graph
+### Animated Contribution Graph
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noblyon22/noblyon22/output/github-contribution-grid-snake-dark.svg" />
@@ -262,11 +290,18 @@ Animated Contribution Graph
   <a href="https://github.com/noblyon22?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" /></a>
 </p>
 
-The statistics cards are live third-party summaries, not manually entered totals. The all-time commits card now includes repositories owned by noblyon22 and tek-juice; GitHub and the card provider still count only commits they can attribute to the account within their supported repository scope. The snake animation is generated by the workflow supplied alongside this README and appears after that workflow runs successfully.
-Professional Interests
+*The statistics cards are live third-party summaries, not manually entered totals. The all-time commits card requests all-time activity for `noblyon22`; the displayed result depends on the provider’s repository coverage and its ability to attribute commits to the account. The snake animation is generated by the workflow supplied alongside this README and appears after that workflow runs successfully.*
+
+---
+
+## Professional Interests
+
 I am interested in opportunities involving AI engineering, machine learning, data science, analytics, backend engineering, and full-stack development.
 
 I aim to build useful software, solve data-intensive problems, integrate intelligent systems, and contribute to products that deliver practical value.
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineering-Design%20%26%20Integration-7C3AED?style=flat-square" alt="AI engineering design and integration" />
   <img src="https://img.shields.io/badge/Data%20Science-Insights%20%26%20Models-0F766E?style=flat-square" alt="Data science insights and models" />
