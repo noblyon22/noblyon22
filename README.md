@@ -153,9 +153,9 @@ Git-based workflows, containerised development, cloud-hosted applications, rever
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Machine Learning & Predictive Modelling</h3>
-      <p>Worked on classification and prediction workflows, model evaluation, XGBoost experiments, property-price prediction, and computer-vision and neural-network notebooks.</p>
-      <p><strong>Focus:</strong> Model comparison, feature preparation, evaluation, and practical experimentation.</p>
+      <h3>Website and Websystem Visibilty Engine</h3>
+      <p>This a platform that boosts the SEO, AEO and the GEO of Websystems and websites</p>
+      <p><strong>Focus:</strong>It identifies competitors and closes it's gaps through seo, geo and Aeo measures of keyword selection, indexing, metadata, backlinks and e.t.c</p>
     </td>
     <td width="50%" valign="top">
       <h3>Conversational AI</h3>
