@@ -160,7 +160,7 @@ Git-based workflows, containerised development, cloud-hosted applications, rever
     <td width="50%" valign="top">
       <h3>Conversational AI</h3>
       <p>Developed a virtual travel assistant experience that helps users explore destinations and access travel information through a conversational interface.</p>
-      <p><strong>Evidence:</strong> <a href="https://chatbot.everything-uganda.com/">Nambi — Virtual Travel Assistant</a></p>
+      <p><strong>Evidence:</strong> <a href="https://chatbot.everything-uganda.com/">Virtual Travel Assistant</a></p>
     </td>
   </tr>
   <tr>
