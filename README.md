@@ -210,7 +210,7 @@ These are selected examples from a broader portfolio of client engagements and p
       <p>This is a platform that boosts the SEO, AEO and the GEO of Websystems and websites</p>
       <p><strong>Focus:</strong>This platform identifies competitors, measures the gaps and closes them through seo, geo and Aeo measures of keyword selection, indexing, metadata, backlinks and e.t.c</p>
       <a href="https://dataengine.54-86-109-228.sslip.io/">
-        <img src="https://img.shields.io/badge/Explore-ML_and_Data_Science_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore the Visibilty Engine" />
+        <img src="https://img.shields.io/badge/Explore the Visibilty Engine-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore the Visibilty Engine" />
       </a>
     </td>
     <td width="50%" valign="top">
