@@ -1,33 +1,40 @@
 # Norbert Ndungutse
 
 <p align="center">
-  <strong>AI ENGINEER | DATA SCIENTIST | FULL-STACK DEVELOPER</strong>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Norbert%20Ndungutse&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=AI%20Engineering%20%7C%20Data%20Science%20%7C%20Full-Stack%20Development&descAlignY=62&descSize=16" alt="Norbert Ndungutse — AI Engineering, Data Science and Full-Stack Development" width="100%" />
 </p>
 
 <p align="center">
-  Building intelligent applications, data-driven systems, and practical software solutions.
+  <strong>Building intelligent applications, data-driven systems, and practical software solutions.</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/noblyon22?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
+    <img src="https://img.shields.io/badge/Explore-My_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
   </a>
   <a href="https://github.com/noblyon22?tab=overview">
-    <img src="https://img.shields.io/badge/GitHub-Contributions-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub contributions" />
+    <img src="https://img.shields.io/badge/View-Contribution_History-238636?style=for-the-badge&logo=github&logoColor=white" alt="View contribution history" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Engineering-412991?style=flat-square" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Data_Science-0F766E?style=flat-square" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Full--Stack_Development-2563EB?style=flat-square" alt="Full-Stack Development" />
+  <img src="https://img.shields.io/badge/Problem_Solving-F59E0B?style=flat-square" alt="Problem solving" />
 </p>
 
 ---
 
 ## About Me
 
-I build software and data-driven solutions that address practical problems across different industries. My work spans AI engineering, machine learning, data science, backend development, frontend engineering, and application integration.
+I develop intelligent applications, data-driven systems, backend services, and full-stack products that address practical technical and business problems.
 
-I work on projects ranging from predictive models and analytics workflows to intelligent applications and full-stack products. My approach combines problem-solving, data analysis, software engineering, and practical implementation.
+My work spans AI engineering, machine learning, data science, web development, API integration, database design, and business intelligence. I work across independent projects and client engagements, adapting the technology and architecture to each project's needs.
 
-My public repositories and selected live projects represent a broader portfolio of development work, including client-focused engagements and independent technical projects.
+I focus on combining analytical thinking with practical engineering to develop maintainable applications, useful data products, and integrated software systems.
 
-## Technical Skills
+## Technology Stack
 
 ### AI Engineering and Machine Learning
 
@@ -37,12 +44,12 @@ My public repositories and selected live projects represent a broader portfolio 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Computer_Vision-6A5ACD?style=for-the-badge" alt="Computer vision" />
-  <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge" alt="Natural language processing" />
+  <img src="https://img.shields.io/badge/Natural_Language_Processing-0F766E?style=for-the-badge" alt="Natural language processing" />
 </p>
 
-Machine learning model development, classification, regression, prediction, model evaluation, computer vision, natural language processing, and AI application integration.
+AI application integration, model training and evaluation, classification, regression, predictive modelling, computer vision, and natural language processing.
 
-### Backend Development and APIs
+### Backend Engineering and Databases
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -53,9 +60,9 @@ Machine learning model development, classification, regression, prediction, mode
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-API development, database design, backend architecture, authentication, service integration, containerisation, and deployment workflows.
+API design, database modelling, backend architecture, authentication, service integration, containerisation, and deployment.
 
-### Frontend Development
+### Frontend and Full-Stack Development
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -67,9 +74,9 @@ API development, database design, backend architecture, authentication, service 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-Responsive interfaces, frontend architecture, API consumption, reusable components, and end-to-end web application development.
+Responsive interfaces, reusable components, frontend architecture, API consumption, and end-to-end web application development.
 
-### Data Science and Analytics
+### Data Science and Business Intelligence
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -80,105 +87,135 @@ Responsive interfaces, frontend architecture, API consumption, reusable componen
   <img src="https://img.shields.io/badge/SPSS_Expert-052FAD?style=for-the-badge" alt="SPSS expert" />
 </p>
 
-Exploratory data analysis, data cleaning, statistical analysis, feature engineering, predictive modelling, data visualisation, dashboard development, and reporting.
+Exploratory data analysis, data cleaning, statistical analysis, feature engineering, predictive modelling, data visualisation, dashboards, and reporting.
 
-## Core Capabilities
+## Engineering Capabilities
 
-| Discipline | Capabilities |
-|---|---|
-| AI Engineering | Intelligent applications, AI integrations, and automated workflows |
-| Machine Learning | Classification, prediction, regression, and model evaluation |
-| Data Science | Data preparation, exploratory analysis, and statistical methods |
-| Business Intelligence | Interactive dashboards, visualisation, and reporting |
-| Backend Engineering | APIs, databases, authentication, and integrations |
-| Full-Stack Development | End-to-end applications and responsive interfaces |
-| Systems Integration | Connecting applications, services, and data sources |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>AI Engineering</h3>
+      Developing AI-powered applications, intelligent workflows, and model integrations.
+    </td>
+    <td width="50%">
+      <h3>Machine Learning</h3>
+      Building classification and prediction workflows, evaluating models, and analysing performance.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Data Science</h3>
+      Preparing data, conducting exploratory analysis, applying statistical methods, and extracting insights.
+    </td>
+    <td width="50%">
+      <h3>Business Intelligence</h3>
+      Turning data into dashboards, reports, and actionable visualisations.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Backend Engineering</h3>
+      Building APIs, database-backed services, authentication workflows, and integrations.
+    </td>
+    <td width="50%">
+      <h3>Full-Stack Development</h3>
+      Delivering complete web applications across frontend, backend, and data layers.
+    </td>
+  </tr>
+</table>
 
 ## Selected Projects
 
-The following projects represent selected examples from a broader portfolio of client engagements and product development work.
+These are selected examples from a broader portfolio of client engagements and product development work. They demonstrate different application areas and engineering capabilities rather than the entirety of my work.
 
-### Visibility Engine
-
-An intelligent website visibility and content strategy platform designed to analyse website information, support search visibility improvement, and coordinate content workflows.
-
-**Focus areas:** Website intelligence, content strategy, search visibility, automation, and application integration.
-
-<p>
-  <a href="https://dataengine.54-86-109-228.sslip.io/">
-    <img src="https://img.shields.io/badge/Visit-Visibility_Engine-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Visibility Engine" />
-  </a>
-</p>
-
-### Virtual Travel Assistant
-
-A conversational travel assistant designed to help users explore destinations and access relevant travel information through a conversational interface.
-
-**Focus areas:** Conversational AI, travel information, user interaction, and backend integration.
-
-<p>
-  <a href="https://chatbot.everything-uganda.com/">
-    <img src="https://img.shields.io/badge/Visit-Virtual_Travel_Assistant-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Virtual Travel Assistant" />
-  </a>
-</p>
-
-### Ultimate Move — Expense Tracker
-
-A digital expense tracking application designed to help users organise expense information and manage financial records.
-
-**Focus areas:** Expense tracking, application development, data management, and user-focused workflows.
-
-<p>
-  <a href="https://ultimatemove.co.uk/">
-    <img src="https://img.shields.io/badge/Visit-Ultimate_Move-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Ultimate Move" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Visibility Engine</h3>
+      <p>An intelligent website visibility and content strategy platform designed to analyse website information, support search visibility improvement, and coordinate content workflows.</p>
+      <p><strong>Focus:</strong> Website intelligence, content strategy, search visibility, and automation.</p>
+      <a href="https://dataengine.54-86-109-228.sslip.io/">
+        <img src="https://img.shields.io/badge/Explore-Visibility_Engine-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Visibility Engine" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Virtual Travel Assistant</h3>
+      <p>A conversational travel assistant designed to help users explore destinations and access relevant travel information through a conversational interface.</p>
+      <p><strong>Focus:</strong> Conversational AI, travel information, and application integration.</p>
+      <a href="https://chatbot.everything-uganda.com/">
+        <img src="https://img.shields.io/badge/Explore-Virtual_Travel_Assistant-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Virtual Travel Assistant" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Ultimate Move — Expense Tracker</h3>
+      <p>A digital expense tracking application designed to help users organise expense information and manage financial records.</p>
+      <p><strong>Focus:</strong> Expense tracking, data management, and user-focused application workflows.</p>
+      <a href="https://ultimatemove.co.uk/">
+        <img src="https://img.shields.io/badge/Explore-Ultimate_Move-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Ultimate Move" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>More Development Work</h3>
+      <p>Explore public repositories covering predictive modelling, data analysis, Python applications, and web development.</p>
+      <p><strong>Focus:</strong> Experiments, source code, and additional engineering projects.</p>
+      <a href="https://github.com/noblyon22?tab=repositories">
+        <img src="https://img.shields.io/badge/Browse-Public_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse public repositories" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Broader Development Portfolio
 
-My wider work includes:
+My wider development work includes:
 
 - Machine learning classification and predictive modelling.
 - Property value prediction and prediction-focused applications.
 - Python applications and backend services.
 - Computer vision and neural network experiments.
 - Data analysis, statistical workflows, and data preparation.
-- Web applications, REST APIs, and database-backed systems.
+- Web applications, APIs, and database-backed systems.
 - Business intelligence dashboards and reporting.
 
-Explore the public repositories for available source code, experiments, and additional projects.
-
-<p>
-  <a href="https://github.com/noblyon22?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse-All_Public_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse all public repositories" />
-  </a>
-</p>
+[![Browse GitHub Repositories](https://img.shields.io/badge/Discover-More_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noblyon22?tab=repositories)
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noblyon22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics for noblyon22" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=noblyon22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noblyon22&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noblyon22&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+  <img src="https://img.shields.io/badge/Profile-Development_Activity-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Profile development activity" />
+  <img src="https://img.shields.io/badge/Focus-Continuous_Learning-7C3AED?style=for-the-badge" alt="Continuous learning" />
 </p>
 
-*These statistics cards are generated by an external service and may occasionally be unavailable.*
+*Statistics cards are supplied by an external service and may occasionally be unavailable. GitHub remains the source of truth for contribution history.*
 
-## GitHub Contribution Activity
+## GitHub Contribution History — All Available Years
 
 <p align="center">
   <a href="https://github.com/noblyon22?tab=overview">
-    <img src="https://img.shields.io/badge/VIEW_MY_CONTRIBUTION_CALENDAR-GitHub-238636?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contribution calendar" />
+    <img src="https://img.shields.io/badge/OPEN-ALL_AVAILABLE_YEARS-238636?style=for-the-badge&logo=github&logoColor=white" alt="Open all available contribution years" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Explore my development activity, repositories, and contribution history directly on GitHub.</strong>
+  <strong>Review my contribution calendar, annual activity, and development history directly on GitHub.</strong>
 </p>
 
-The contribution link opens the official GitHub profile. It does not rely on the third-party calendar image that previously returned a 404 error.
+GitHub's official profile provides the contribution calendar and year-by-year activity views. Use the profile link to select an available year, including 2026 and earlier years with recorded activity.
+
+<p align="center">
+  <a href="https://github.com/noblyon22?tab=overview">
+    <img src="https://img.shields.io/badge/View-Official_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="View official GitHub profile" />
+  </a>
+</p>
+
+This section intentionally avoids the previously broken third-party calendar image. The linked history reflects GitHub's actual contribution records rather than a manually declared commit total.
 
 ## Professional Interests
 
@@ -189,10 +226,18 @@ I aim to build useful software, solve data-intensive problems, integrate intelli
 ---
 
 <p align="center">
+  <strong>AI Engineering · Data Science · Full-Stack Development</strong>
+</p>
+
+<p align="center">
   <a href="https://github.com/noblyon22">
-    <img src="https://img.shields.io/badge/GitHub-noblyon22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/Connect-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" />
   </a>
   <a href="https://github.com/noblyon22?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Public_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+    <img src="https://img.shields.io/badge/Explore-All_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:1D4ED8,100:06B6D4" alt="Decorative footer" width="100%" />
 </p>
