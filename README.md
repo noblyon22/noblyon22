@@ -52,8 +52,8 @@ AI application integration, model training and evaluation, classification, regre
 ### Backend Engineering and Databases
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs" />
@@ -67,8 +67,7 @@ API design, database modelling, backend architecture, authentication, service in
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -184,16 +183,20 @@ My wider development work includes:
 ## GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=noblyon22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noblyon22&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=noblyon22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Current GitHub statistics for noblyon22" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noblyon22&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide_border=true" alt="Most-used programming languages across public repositories" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile-Development_Activity-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Profile development activity" />
-  <img src="https://img.shields.io/badge/Focus-Continuous_Learning-7C3AED?style=for-the-badge" alt="Continuous learning" />
+  <a href="https://github.com/noblyon22?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore_All_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+  </a>
+  <a href="https://github.com/noblyon22?tab=overview">
+    <img src="https://img.shields.io/badge/Contributions-Official_GitHub_History-238636?style=for-the-badge&logo=github&logoColor=white" alt="Official GitHub contribution history" />
+  </a>
 </p>
 
-*Statistics cards are supplied by an external service and may occasionally be unavailable. GitHub remains the source of truth for contribution history.*
+*Statistics cards are supplied by an external service. Repository language percentages are based on detected code in public repositories and do not measure every framework or technology used in development.*
 
 ## GitHub Contribution History — All Available Years
 
@@ -204,10 +207,10 @@ My wider development work includes:
 </p>
 
 <p align="center">
-  <strong>Review my contribution calendar, annual activity, and development history directly on GitHub.</strong>
+  <strong>Explore my contribution calendar, annual activity, and development history directly on GitHub.</strong>
 </p>
 
-GitHub's official profile provides the contribution calendar and year-by-year activity views. Use the profile link to select an available year, including 2026 and earlier years with recorded activity.
+GitHub's official profile provides the contribution calendar and year-by-year activity views. Open the profile to select an available year, including 2026 and earlier years with recorded activity.
 
 <p align="center">
   <a href="https://github.com/noblyon22?tab=overview">
