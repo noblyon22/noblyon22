@@ -1,4 +1,3 @@
-# Norbert Ndungutse
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Norbert%20Ndungutse&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=AI%20Engineering%20%7C%20Data%20Science%20%7C%20Full-Stack%20Development&descAlignY=62&descSize=16" alt="Norbert Ndungutse — AI Engineering, Data Science and Full-Stack Development" width="100%" />
