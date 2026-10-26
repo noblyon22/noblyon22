@@ -3,11 +3,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Norbert%20Ndungutse&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=AI%20Engineering%20%7C%20Data%20Science%20%7C%20Full-Stack%20Development&descAlignY=62&descSize=16" alt="Norbert Ndungutse — AI Engineering, Data Science and Full-Stack Development" width="100%" />
 </p>
-
 <p align="center">
   <strong>Building intelligent applications, data-driven systems, and practical software solutions.</strong>
 </p>
-
 <p align="center">
   <a href="https://github.com/noblyon22?tab=repositories">
     <img src="https://img.shields.io/badge/Explore-My_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
@@ -16,7 +14,6 @@
     <img src="https://img.shields.io/badge/View-Contribution_History-238636?style=for-the-badge&logo=github&logoColor=white" alt="View contribution history" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/AI_Engineering-412991?style=flat-square" alt="AI Engineering" />
   <img src="https://img.shields.io/badge/Data_Science-0F766E?style=flat-square" alt="Data Science" />
@@ -183,10 +180,9 @@ My wider development work includes:
 ## GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=noblyon22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Current GitHub statistics for noblyon22" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=noblyon22&include_all_commits=true&number_format=long&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics for noblyon22 including all-time commits" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noblyon22&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide_border=true" alt="Most-used programming languages across public repositories" />
 </p>
-
 <p align="center">
   <a href="https://github.com/noblyon22?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Explore_All_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
@@ -231,7 +227,6 @@ I aim to build useful software, solve data-intensive problems, integrate intelli
 <p align="center">
   <strong>AI Engineering · Data Science · Full-Stack Development</strong>
 </p>
-
 <p align="center">
   <a href="https://github.com/noblyon22">
     <img src="https://img.shields.io/badge/Connect-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" />
@@ -240,7 +235,6 @@ I aim to build useful software, solve data-intensive problems, integrate intelli
     <img src="https://img.shields.io/badge/Explore-All_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:1D4ED8,100:06B6D4" alt="Decorative footer" width="100%" />
 </p>
