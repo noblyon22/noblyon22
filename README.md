@@ -209,7 +209,7 @@ These are selected examples from a broader portfolio of client engagements and p
       <p><img src="https://img.shields.io/badge/Machine%20Learning-Applied%20Projects-7C3AED?style=flat-square" alt="Applied machine learning projects" /> <img src="https://img.shields.io/badge/Python-Data%20%26%20Modelling-2563EB?style=flat-square&logo=python&logoColor=white" alt="Python data and modelling" /></p>
       <p>A collection of practical experiments covering predictive modelling, classification, model evaluation, data analysis, and computer vision.</p>
       <p><strong>Focus:</strong> Model development, experimentation, data preparation, and analytical problem-solving.</p>
-      <a href="https://github.com/noblyon22?tab=repositories">
+      <a href="https://dataengine.54-86-109-228.sslip.io/">
         <img src="https://img.shields.io/badge/Explore-ML_and_Data_Science_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore machine learning and data science projects" />
       </a>
     </td>
